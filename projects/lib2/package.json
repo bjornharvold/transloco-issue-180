@@ -1,0 +1,14 @@
+{
+  "name": "lib2",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "i18n": [
+    {
+      "scope": "lib2",
+      "path": "src/lib/i18n"
+    }
+  ]
+}

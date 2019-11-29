@@ -1,0 +1,27 @@
+{
+  "name": "lib2",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "i18n": [
+    {
+      "scope": "lib2",
+      "path": "src/lib/i18n"
+    }
+  ],
+  "main": "bundles/lib2.umd.js",
+  "module": "fesm5/lib2.js",
+  "es2015": "fesm2015/lib2.js",
+  "esm5": "esm5/lib2.js",
+  "esm2015": "esm2015/lib2.js",
+  "fesm5": "fesm5/lib2.js",
+  "fesm2015": "fesm2015/lib2.js",
+  "typings": "lib2.d.ts",
+  "metadata": "lib2.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
